@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "supported_formats": [1, 31],
+    "description": "CRSS's Resource packs base repo"
+
+  }
+}
