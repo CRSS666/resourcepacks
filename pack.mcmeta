@@ -1,8 +1,21 @@
 {
   "pack": {
     "pack_format": 1,
-    "supported_formats": [1, 31],
-    "description": "CRSS's Resource packs base repo"
-
+    "supported_formats": [
+      1,
+      99
+    ],
+    "description": "CRSS's panorama on Panorama Socialist Federation's spawn"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [
+          15,
+          31
+        ],
+        "directory": "new_title"
+      }
+    ]
   }
 }
