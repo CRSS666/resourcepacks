@@ -5,14 +5,14 @@
       1,
       99
     ],
-    "description": "CRSS's panorama on Panorama Socialist Federation's spawn"
+    "description": "CRSS's panorama around the Public Wheat farm location in PSF."
   },
   "overlays": {
     "entries": [
       {
         "formats": [
           15,
-          31
+          99
         ],
         "directory": "new_title"
       }
