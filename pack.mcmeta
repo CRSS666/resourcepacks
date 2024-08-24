@@ -3,18 +3,18 @@
     "pack_format": 1,
     "supported_formats": [
       1,
-      99
+      999999999999999999
     ],
-    "description": "CRSS's panorama at the original panorama location."
+    "description": "CRSS's panorama at the server lobby."
   },
   "overlays": {
     "entries": [
       {
         "formats": [
           15,
-          99
+          999999999999999999
         ],
-        "directory": "new_title"
+        "directory": "1.20"
       }
     ]
   }
